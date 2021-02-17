@@ -1,5 +1,4 @@
-I teach Maths and Computer science in Paris, France
-
+I teach Maths and Computer science in Paris, France<br>
 I plan to use Github with my students
 
 <!---
